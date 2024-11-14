@@ -1,2 +1,3 @@
 # hello-world
 This repository is for practicing GitHub and learning how to use it.
+Before we do anything, here is a little bit about myself - Hi all, my name is Jennifer and I am an aspiring data analyst. I have a degree in Kinesiology-Exercise Science, but I realized during my senior year in college that I no longer wanted to pursue a career in this field. For a while I didn't know what I wanted to do, until I came across some Tiktok videos talking about data analysis. When researching about the occupation, I realized how interesting it was. Since then, I have been trying my best to learn SQL and data visualization programs.
